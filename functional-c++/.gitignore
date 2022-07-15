@@ -1,7 +1,10 @@
 *
-!*.cpp
-!*.h
+!Ch*
+!Ch*/**/
+!**/*.cpp
+!**/*.h
 !.vscode/
 !.vscode/**/*
-!*.md
+!./**/*.md
 !.gitignore
+!.gitattributes
