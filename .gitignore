@@ -13,3 +13,6 @@ tags
 # Builds
 Debug/
 main
+
+# Code runner
+.cph
